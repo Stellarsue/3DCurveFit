@@ -1,4 +1,4 @@
-# PolynomialCurveFitOSG
+# 3DCurveFit
 
 这是一个完整的 C++ + OpenSceneGraph(OSG) 教学示例项目，用来演示：
 
