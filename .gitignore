@@ -1,0 +1,18 @@
+# Build directories and generated CMake files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Generated runtime data
+point_cloud.txt
+osg_qt_screenshot_*.png
+
+# IDE and operating-system files
+.DS_Store
+.idea/
+.vscode/
+*.user
+
